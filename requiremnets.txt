@@ -3,3 +3,5 @@ opencv-python
 mediapipe
 streamlit-webrtc
 numpy
+
+PyPDF2
